@@ -1,0 +1,23 @@
+html{
+    background-color: wheat;
+}
+p.red{
+    color: #BA2727;
+}
+h1.title{
+    color: brown;
+    text-align: center;
+}
+tbody.color{
+    color: #BA2727;
+}
+tfoot.color{
+    color: #BA2727;
+}
+th.backcolor{   
+    color: yellow;
+}
+td.size{
+    width: 600px;
+    height: 20px;
+}
